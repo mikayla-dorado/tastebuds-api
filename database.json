@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Ely",
-            "email": "E@gmail.com"
+            "email": "Ely@gmail.com"
         }, {
             
             "id": 2,
@@ -50,21 +50,21 @@
             "description": "Better than take out pad thai!",
             "cuisineId": 3
         }, {
-            "id": 3,
-            "title": "",
-            "userId": ,
-            "ingredients": ,
-            "body": "",
-            "description": "",
-            "cuisineId": 
+            "id": 5,
+            "title": "Chicken and Gnocchi Soup in the Crockpot",
+            "userId": 3,
+            "ingredients": "3-4 chicken breasts(diced into 1 inch pieces) \n 1 stalk of celery \n 1/2 white onion, diced \n 1 tbsp minced garlic \n 1/2 cup shredded carrots \n 4 cups of chicken broth \n 1 tsp salt, pepper, ground thyme \n 16oz of potato gnocchi \n 2 cups heavy whipping cream \n 1 tbsp corn starch \n 1 cup fresh chopped Spinach \n 1 cup shredded parmesean cheese",
+            "body": "Place teh chicken, onion, celery, garlic, shredded carrots, salt, pepper, thyme, and chicken broth into the crock pot \n Cover and cook on low for 5-6 hours or on high for 3 hours \n Stir the cornstarch into the heavy whipping cream \n When chicken is fully cooked stir in the heavy cream mixture and the potato gnocchi \n Make sure the crockpot is on 'high', cover and cook for 15-30 minutes, or until the gnocchi is cooked through \n Turn off the crockpot, stir in the fresh spinach and parmesan, enjoy!",
+            "description": "A knock off of Olive Garden's tastiest soup!",
+            "cuisineId": 2
         }, {
-            "id": 3,
-            "title": "",
-            "userId": ,
-            "ingredients": ,
-            "body": "",
-            "description": "",
-            "cuisineId": 
+            "id": 6,
+            "title": "Crockpot BBQ Chicken",
+            "userId": 3,
+            "ingredients": "2lbs chicken breast \n 1.5 cups BBQ sauce (I prefer G Hughes sweet&spicy) \n 1/2 tsp onion powder and garlic powder \n 1 tsp chili powder \n 1 tbsp Worcestershire sauce \n 1 tbsp brown sugar \n Buns, coleslaw, etc for serving",
+            "body": "Place the chicken breast in the crockpot \n Add the sauce and the seasonings together to a bowl and stir until smooth \n Pour the sauce over the chicken and toss to make sure it is well coated \n Cover and cook on high for 3-4 hours or low for 6-7 hours \n Once cooked, shred the chicken in the slow cooker using two forks, then stir so it is coated in the sauce \n Add salt and pepper to taste if needed before serving",
+            "description": "A super simple weeknight meal that can be eaten a variety of ways!",
+            "cuisineId":4
         }
     ],
     "cuisines" : [
@@ -106,17 +106,15 @@
             "id": 5,
             "userId": 2,
             "postId": 4
+        }, {
+            "id": 6,
+            "userId": 1,
+            "postId": 5
+        }, {
+            "id": 7,
+            "userId": 2,
+            "postId": 6
         }
     ]
 
 }
-
-
-
-
-
-
-
-
-
-
